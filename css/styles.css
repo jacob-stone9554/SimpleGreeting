@@ -1,0 +1,27 @@
+body {
+    font-size:80%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #efefef;
+}
+
+div {
+    height: 300px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h3 {
+    font-size:large;
+    height: 75%;
+    width: 75%;
+    background-color: #e1ddda;
+    border: solid;
+    border-width: 2px;
+    border-color:black;
+    border-radius: 10px;
+    text-align:center;
+    padding: 50px;
+}
